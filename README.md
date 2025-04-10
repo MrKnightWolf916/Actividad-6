@@ -1,1 +1,24 @@
 # Actividad-6
+<alumnos>
+  <alumno>
+    <carnet>2021001</carnet>
+    <nombres>Juan</nombres>
+    <apellidos>Pérez</apellidos>
+    <edad>22</edad>
+    <correo_electronico>juan.perez@example.com</correo_electronico>
+  </alumno>
+  <alumno>
+    <carnet>2021002</carnet>
+    <nombres>Maria</nombres>
+    <apellidos>González</apellidos>
+    <edad>23</edad>
+    <correo_electronico>maria.gonzalez@example.com</correo_electronico>
+  </alumno>
+  <alumno>
+    <carnet>2021003</carnet>
+    <nombres>Carlos</nombres>
+    <apellidos>Ruiz</apellidos>
+    <edad>21</edad>
+    <correo_electronico>carlos.ruiz@example.com</correo_electronico>
+  </alumno>
+</alumnos>
